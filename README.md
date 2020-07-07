@@ -1,7 +1,7 @@
 # Tianci-O2O-coupon-usage-predict
 The first time to participate in machine learning competitions
 
-赛事地址[天池比赛页面](https://tianchi.aliyun.com/competition/entrance/231593/information)
+赛事地址[天池新人实战赛o2o优惠券使用预测](https://tianchi.aliyun.com/competition/entrance/231593/information)
 
 ## 数据
   本赛题提供用户在2016年1月1日至2016年6月30日之间真实线上线下消费行为，预测用户在2016年7月领取优惠券后15天以内的使用情况。
