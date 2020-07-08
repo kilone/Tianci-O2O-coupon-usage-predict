@@ -114,7 +114,9 @@ params = {'booster': 'gbtree',
   dataset3_predict = predict_dataset.copy()
   dataset3_predict['label'] = model.predict(predict_dmatrix)
   ```
-   
+  
+  运行结果：
+  ![运行结果]()
    
   
   
